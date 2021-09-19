@@ -49,7 +49,7 @@ span.x4:before, i.x4:before
 
 header .container-fluid
 {
-    background-image: url('https://unsplash.it/2560/1707?image=961');
+    background-image: url('https://r0xtigers.github.io/images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -105,7 +105,7 @@ header .container-fluid
 
 .number .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=685');
+    background-image: url('https://r0xtigers.github.io/images/background1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -144,7 +144,7 @@ header .container-fluid
 
 .story .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=531');
+    background-image: url('https://r0xtigers.github.io/images/background1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -153,16 +153,6 @@ header .container-fluid
 .gallery
 {
     background-color: #dddddd;
-}
-
-.prefooter .container-fluid
-{
-    background: linear-gradient(
-      rgba(33, 37, 43, 0.6),
-      rgba(33, 37, 43, 0.6)
-    ),
-
-    url(https://unsplash.it/4000/3000?image=528);
 }
 
 .prefooter h1,
